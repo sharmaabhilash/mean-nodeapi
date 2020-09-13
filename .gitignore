@@ -34,5 +34,4 @@ bower_components
 # node-waf configuration
 .lock-wscript
 
-images/*.*
 node_modules
